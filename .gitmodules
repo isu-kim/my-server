@@ -1,0 +1,3 @@
+[submodule "server-stat-checker"]
+	path = server-stat-checker
+	url = https://github.com/isu-kim/server-stat-checker.git
